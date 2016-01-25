@@ -8,7 +8,7 @@
 
 4.- While interacting with other project contributors in any of the official channels you are expected to show others civility and courtesy. 
 
-5.- The project creator and maintainers reserver the right to remove anyone that is deemed as acting on **bad faith.**
+5.- The project creator and maintainers reserve the right to remove anyone that is deemed as acting on **bad faith.**
 
 6.- This code of conduct is limited to only the **official project spaces** as defined by the project creator/maintainers.
 
