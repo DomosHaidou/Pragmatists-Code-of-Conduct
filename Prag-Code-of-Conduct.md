@@ -6,7 +6,7 @@
 
 3.- All comments, contributions and interactions are **assumed in good faith** unless obvious evidence of contrary.
 
-4.- While interacting with other project contributors in any of the official channels you are expected to behave as an adult. 
+4.- While interacting with other project contributors in any of the official channels you are expected to show others civility and courtesy. 
 
 5.- The project creator and maintainers reserver the right to remove anyone that is deemed as acting on **bad faith.**
 
